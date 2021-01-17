@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Data Scientist currently working in goverment in Melbourne, Australia with a background in Mathematics and Physics. I completed my PhD in Statistical Mechanics in 2015 at the [University of Melbourne](https://www.ms.unimelb.edu.au), then worked as a Signal Processing and Machine Learning Researcher at [DST Group]. I also worked as a kind of analyst / programmer at [Gapmaps], a geospatial Software as a Service start-up and consultancy based in Melbourne.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+All opinions expressed on this site are my own.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+***
 
+![In the mountains: 1](/assets/images/georgia1.jpg)
 
-[jekyll-organization]: https://github.com/jekyll
+[DST Group]: https://www.dst.defence.gov.au
+[Gapmaps]: https://www.gapmaps.com
