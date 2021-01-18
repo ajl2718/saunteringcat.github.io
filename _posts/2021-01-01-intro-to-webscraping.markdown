@@ -4,7 +4,7 @@ title:  "Intro to webscraping"
 date:   2021-01-01
 categories: Python Webscraping Requests Pandas Alternative-data-sources
 ---
-Webscraping involves writing small programs to automatically extract data from websites. It's an extremely useful technique for creating **large aggregated datasets using publicly-available data** as it's inexpensive and fast. With the huge amount of data available in the public domain it can also be the **best way to obtain up-to-date and complete data for a given task**.
+Webscraping involves writing small programs to automatically extract data from websites. It's an extremely useful technique for creating large aggregated datasets using publicly-available data as it's inexpensive and fast. With the huge amount of data available in the public domain it can also be the best way to obtain up-to-date and complete data for a given task.
 
 There are a huge number of applications of webscraping, across domains ranging from **economic statistics** to **data journalism** to **compliance monitoring**. Here are some specific ones:
 - [Estimating the Consumer Price Index](https://www.abs.gov.au/articles/web-scraping-australian-cpi)
