@@ -4,7 +4,7 @@ title:  "Intro to webscraping"
 date:   2021-01-01
 categories: Python Webscraping Requests Pandas Alternative-data-sources
 ---
-Webscraping involves writing small programs to automatically extract data from websites. It's an extremely useful technique for creating **large aggregated datasets using publicly-available data** as it's inexpensive and fast. With the huge amount of data available in the public domain it can also be the **best way to obtain up-to-date and complete data for a given task**.
+Webscraping involves writing small programs to automatically extract data from websites. It's an extremely useful technique for creating large aggregated datasets using publicly available data as it's inexpensive and fast. With the huge amount of data available in the public domain it can also be the best way to obtain up-to-date and complete data for a given task.
 
 There are a huge number of applications of webscraping, across domains ranging from **economic statistics** to **data journalism** to **compliance monitoring**. Here are some specific ones:
 - [Estimating the Consumer Price Index](https://www.abs.gov.au/articles/web-scraping-australian-cpi)
@@ -265,7 +265,7 @@ The ```json_normalize``` method in Pandas is a handy way to flatten the nested J
 | 406 Sydney Road | Coburg | VIC | 3058 | -37.743756 | 144.966389 |
 
 ## Summary and General tips
-That's enough of an intro to get started. Using a couple of examples, we've covered the basics of scraping HTML and JSON using GET and POST requests, and parsing the data into tidy form using LXML and Pandas. To summarise:
+That's enough of an intro to get started. Using a couple of examples, we've covered the basics of scraping HTML and JSON, and parsing the data into tidy form using LXML and Pandas. To summarise:
 
 - Remember to check the Terms and Conditions, robots.txt file and consider the application that you are using the data for;
 - The developer tools in the browser are a good way to identify the relevant elements in the web site;
