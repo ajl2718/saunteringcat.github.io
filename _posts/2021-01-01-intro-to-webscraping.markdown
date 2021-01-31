@@ -270,6 +270,6 @@ That's enough of an intro to get started. Using a couple of examples, we've cove
 - Remember to check the Terms and Conditions, robots.txt file and consider the application that you are using the data for;
 - The developer tools in the browser are a good way to identify the relevant elements in the web site;
 - There is fair amount of hack-work required to find where the relevant data is, and it changes from website to website. The two examples here illustrate how scraping works for a fair number of different websites;
-- Those with store locators or unofficial APIs generally much easier to scrape as the data is already in a relatively structured form.
+- Those with store locators or unofficial APIs are generally much easier to scrape as the data is already in a relatively structured form.
 
 To make things easy, all the code in this post is available in a (hopefully) easy-to-follow [Jupyter Notebook](https://github.com/alex2718/python_learning/blob/master/Intro_to_webscraping_010121.ipynb).
