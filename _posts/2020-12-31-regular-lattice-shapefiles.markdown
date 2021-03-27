@@ -12,6 +12,6 @@ I created three Jupyter notebooks to carry out these tasks:
 1. The [second](https://github.com/alex2718/python_learning/blob/master/RegularGridShapefiles.ipynb) is similar to the above but contains code for generating both hexagonal and square lattices;
 1. The [third](https://github.com/alex2718/python_learning/blob/master/UniformPopulationEstimates.ipynb) one shows how to estimate the population contained in each of the hexagons based on the 2016 Census counts at the SA1 level.
 
-And here is a nice picture of a hexgrid, which always tend to look quite nice:
+And here is a nice picture of a hexgrid:
 
 ![A hexgrid covering Victoria](/assets/images/hexgrid.png)
