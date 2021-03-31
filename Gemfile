@@ -39,5 +39,5 @@ gem "kramdown", ">= 2.3.0"
 
 gem "webrick"
 
-gem "github-pages", "~>213", group: :jekyll_plugins
+gem "github-pages", "~>214", group: :jekyll_plugins
 
