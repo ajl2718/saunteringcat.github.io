@@ -12,7 +12,7 @@ Running a Jupyter Notebook inside a Docker container is a nice solution to this 
 The Docker documentation has very useful and easy to follow [tutorials](https://docs.docker.com/get-started/) to begin using Docker. 
 
 ## Set up a project using Poetry
-Poetry is handy for setting up the folder structure for a project, including tests, moduels, a README.md and managing dependencies
+Poetry is handy for setting up the folder structure for a project, including tests, modules, a README.md and managing dependencies
 ```
 poetry new (project_name)
 ```
@@ -51,5 +51,7 @@ and run it
 ```
 docker run -p 8888:8888 my_test_environment
 ```
+
+Note that in order for this container to run you need to have installed jupyter.
 
 Now you can open up a browser and create a new notebook which will have the necessary libraries from the Docker image. Because this is run inside a container, no data will be stored between stopping and running the container again so any notebooks cannot be saved. 
