@@ -7,7 +7,7 @@ categories: Python Docker
 
 Often I want to experiment with a new Python package but don't want to have to set up a virtual environment, or affect the packages that I already have installed on my system. Jupyter Notebooks provide a great interface for quickly testing out new features of a library but using them inside a virtual environment can also be a pain. 
 
-Running a Jupyter Notebook inside a Docker container is a nice solution to this problem. This post gathers together my understanding of Docker in setting this up. I'm still very much learning about Docker and haven't had many other opportunities to really see where it is essential but this is one nice use case, and a good intro for me to learn about it.
+Running a Jupyter Notebook inside a Docker container is a nice solution to this problem. This post gathers together my understanding of Docker in setting this up. I'm still very much learning about Docker and haven't had many other opportunities to really see where it is essential but this is one simple use case, and a good intro for me to learn about it.
 
 The Docker documentation has very useful and easy to follow [tutorials](https://docs.docker.com/get-started/) to begin using Docker. 
 
