@@ -31,11 +31,11 @@ poetry add jupyter
 
 Finally export a `requirements.txt` file that we can use to create the Docker image.
 ```
-pip freeze > requirements.txt
+poetry export -f requirements.txt --without-hashes --output requirements.txt
 ```
 
 ## Create a Dockerfile
-Create a file `Dockerfile` (without any extension) in the working directory of a project. We use a Python 3.8 base image and then add the requirements.txt file with the necessary libraries.
+Create a file `Dockerfile` (without any extension) in the working directory of the project. We use a Python 3.8 base image and then add the requirements.txt file with the necessary libraries.
 
 ```
 FROM python:3.8-slim-buster
