@@ -51,7 +51,7 @@ In the same working directory build the image:
 ```
 docker build --tag my_test_enviroment .
 ```
-and run it
+and run it to start a container
 ```
 docker run -p 8888:8888 my_test_environment
 ```
