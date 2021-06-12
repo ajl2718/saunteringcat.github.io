@@ -24,6 +24,11 @@ poetry shell
 poetry add (package_name)
 ```
 
+And remember to add Jupyter notebook
+```
+poetry add jupyter
+```
+
 Finally export a `requirements.txt` file that we can use to create the Docker image.
 ```
 pip freeze > requirements.txt
@@ -50,7 +55,5 @@ and run it
 ```
 docker run -p 8888:8888 my_test_environment
 ```
-
-Note that in order for this container to run you need to have installed jupyter.
 
 Now you can open up a browser and create a new notebook which will have the necessary libraries from the Docker image. Because this is run inside a container, no data will be stored between stopping and running the container again so any notebooks cannot be saved. 
