@@ -35,9 +35,12 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v2 ships without the gfm parser by default. If you're using
 # kramdown v1, comment out this line.
 #gem "kramdown-parser-gfm"
-gem "kramdown", ">= 2.3.0"
-
+gem "kramdown", ">= 2.3.1"
 gem "webrick"
 
-gem "github-pages", "~>213", group: :jekyll_plugins
+gem "github-pages", "~>221", group: :jekyll_plugins
 
+# to fix some of the potential vulnerabilities (16/01/22)
+gem "addressable", ">= 2.8.0"
+gem "nokogiri", ">= 1.12.5"
+gem "rexml", ">= 3.2.5"
