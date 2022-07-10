@@ -33,8 +33,8 @@ The string after ```-c``` indicates the repository where the package is located.
 After all the required packages are added to the conda environment, we need to allow Jupyter to use it. Still in the virtual environment type:
 
 ```
-conda install -c anaconda ipykernel
-python -m ipykernel install --user -n=ds_project1
+conda install -c anaconda ipykernel 
+python -m ipykernel install --user --n=ds_project1
 ```
 
 Now each time you want to use this environment in Jupyter notebook, simply activate the environment and start jupyter notebook as you usually would:
