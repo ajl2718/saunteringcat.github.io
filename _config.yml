@@ -17,8 +17,8 @@ title: Meanderings in data
 email: ajlee3141@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Some thoughts, experiments and learning related to data and data science
-url: "alex2718.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  alex2718
+url: "saunteringcat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  saunteringcat
 
 # Build settings
 markdown: kramdown
