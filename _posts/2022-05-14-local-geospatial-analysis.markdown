@@ -48,4 +48,4 @@ ax.set_axis_off()
 And here is what the output should look like:
 ![SA2 and Greater Melbourne basemap](/assets/images/greater_melbourne_example.png)
 
-The notebook describing how to download the map tiles is available [here](https://github.com/alex2718/python_learning/blob/master/cartodb_tile_extraction.ipynb) and for visualisation [here](https://github.com/alex2718/python_learning/blob/master/cartodb_tile_extraction.ipynb).
+The notebook describing how to download the map tiles is available [here](https://github.com/saunteringcat/python_learning/blob/master/cartodb_tile_extraction.ipynb) and for visualisation [here](https://github.com/saunteringcat/python_learning/blob/master/cartodb_tile_extraction.ipynb).

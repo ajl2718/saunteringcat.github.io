@@ -36,7 +36,7 @@ Here are the basic steps of the algorithm for geocoding street addresses:
 
 The paper has SQL code for most of these steps, with the exception of the GNAF setup and the numerical constraint.
 
-I have written a Python module for geocoding that implements this algorithm in Postgres thanks to the nice [results library](https://pypi.org/project/results/). It is available in the repo [PhraseGeocoder](https://github.com/alex2718/PhraseGeocoder).
+I have written a Python module for geocoding that implements this algorithm in Postgres thanks to the nice [results library](https://pypi.org/project/results/). It is available in the repo [PhraseGeocoder](https://github.com/saunteringcat/PhraseGeocoder).
 
 <h1>Summary and extensions to the algorithm</h1>
 I found this an instructive project for learning more about Postgres, in particular things like Common Table Expressions, string similarity and operations that I wasn't at all familiar with.
@@ -50,4 +50,4 @@ Some of these variations I have coded up and will upload them at a later date.
 
 <h1>References</h1>
 - [Exploiting Redundancy, Recurrence and Parallelism: How to Link Millions of Addresses with Ten Lines of Code in Ten Minutes](https://arxiv.org/abs/1708.01402)
-- [Github repo for PhraseGeocoder](https://github.com/alex2718/PhraseGeocoder)
+- [Github repo for PhraseGeocoder](https://github.com/saunteringcat/PhraseGeocoder)

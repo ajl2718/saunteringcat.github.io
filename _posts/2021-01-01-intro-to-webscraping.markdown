@@ -16,7 +16,7 @@ There are plenty of applications of webscraping, across domains ranging from **e
 
 Learning the basics is straightforward and requires only a few lines of Python. The main challenge is identifying the relevant snippets of HTML, JSON or Javascript containing the data you are looking for; this is usually the most time-consuming part as well. 
 
-In this tutorial I will give an introduction to webscraping using two simple examples. All the code is in a [Jupyter Notebook](https://github.com/alex2718/python_learning/blob/master/Intro_to_webscraping_010121.ipynb).
+In this tutorial I will give an introduction to webscraping using two simple examples. All the code is in a [Jupyter Notebook](https://github.com/saunteringcat/python_learning/blob/master/Intro_to_webscraping_010121.ipynb).
 
 ## Ethics and best practices
 Before we begin, there are some general tips to ensure you're doing the right thing:
@@ -272,4 +272,4 @@ That's enough of an intro to get started. Using a couple of examples, we've cove
 - There is fair amount of hack-work required to find where the relevant data is, and it changes from website to website. The two examples here illustrate how scraping works for a fair number of different websites;
 - Those with store locators or unofficial APIs are generally much easier to scrape as the data is already in a relatively structured form.
 
-To make things easy, all the code in this post is available in a (hopefully) easy-to-follow [Jupyter Notebook](https://github.com/alex2718/python_learning/blob/master/Intro_to_webscraping_010121.ipynb).
+To make things easy, all the code in this post is available in a (hopefully) easy-to-follow [Jupyter Notebook](https://github.com/saunteringcat/python_learning/blob/master/Intro_to_webscraping_010121.ipynb).
