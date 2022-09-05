@@ -17,6 +17,7 @@ A couple of open source projects I have led:
 
 
 I also enjoy mountains, cooking eggplant, reading and music.
+
 ***
 
 ![In the mountains: 1](/assets/images/georgia1.jpg)
