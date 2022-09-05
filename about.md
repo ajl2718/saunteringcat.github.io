@@ -11,12 +11,10 @@ My background is in maths and physics and I completed my PhD in the area of Stat
 
 A couple of open source projects I have led:
 
-- [Loupe]: a package for identifying and redacting Personally Identifiable Information (PII) in free-text. PII is a common barrier to data sharing in many different domains so the aim of this project is to have an open source solution that is generally applicable but also can be trained for more specific corpora.
+- Loupe
+- PhraseGeocoder
 
-- [PhraseGeocoder]: A geocoding package for Australian street addresses, using Python and PostgreSQL, based on some fairly modern record linkage techniques.
-
-
-I also enjoy mountains, cooking eggplant, reading and music.
+I also enjoy mountains, cycling, cooking eggplant, reading and music.
 
 ***
 
