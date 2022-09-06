@@ -11,8 +11,8 @@ My background is in maths and physics and I completed my PhD in the area of Stat
 
 A couple of open source projects I have led:
 
-- Loupe
-- PhraseGeocoder
+- Loupe, a Python package for detecting and redacting Personally Identifiable Information (PII) from text. [Loupe]
+- PhraseGeocoder, a package that uses Python and PostgreSQL for geocoding Australian street addresses, based on recent research on record linkage algorithms. [PhraseGeocoder]
 
 I also enjoy mountains, cycling, cooking eggplant, reading and music.
 
